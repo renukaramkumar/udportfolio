@@ -4,10 +4,10 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 
 ### Getting started
 
-Some useful tips to help you get started:
+Part1: Optimize PageSpeed Insights score for index.html
 
 1. Check out the repository
-1. To inspect the site on your phone, you can run a local server
+1. To inspect the site , you can run a local server
 
   ```bash
   $> cd /path/to/your-project-folder
@@ -25,6 +25,9 @@ Some useful tips to help you get started:
 1. Copy the public URL ngrok gives you and try running it through PageSpeed Insights! [More on integrating ngrok, Grunt and PageSpeed.](http://www.jamescryer.com/2014/06/12/grunt-pagespeed-and-ngrok-locally-testing/)
 
 Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
+
+Part 2: Optimize Frames per Second in pizza.html
+   To optimize pizza.html the code is tweaked till the frames per second rate is 60 fps and can by done using Chrome developer tools described here: Chrome Dev Tools tips-and-tricks.
 
 ### Optimization Tips and Tricks
 * [Optimizing Performance](https://developers.google.com/web/fundamentals/performance/ "web performance")
